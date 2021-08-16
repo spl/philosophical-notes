@@ -54,5 +54,53 @@
        a more effective criticism of the argument than if you were criticizing
        an uncharitable version of the argument.
 
+* [Critical Thinking: A Student's Introduction][critical-thinking] (5th ed.):
+  - The Principle of Charity (p. 44): When interpreting an unclear passage,
+    always give the speaker or writer the benefit of the doubt. Never attribute
+    to an arguer a _weaker_ argument when the evidence reasonably permits us to
+    attribute to him or her a _stronger_ one. And never interpret a passage as a
+    _bad argument_ when the evidence reasonably permits us to interpret it as
+    _not an argument at all_.
+  - The Principle of Charity Test (p. 59): The principle of charity serves two
+    important goals in critical thinking. First, it fosters goodwill and mutual
+    understanding in argument by demanding that we treat the arguments of others
+    with the same generous and respectful spirit that we would like others to
+    treat our own arguments. Even more important, it promotes the discovery of
+    truth by insisting that we confront arguments that we ourselves admit to be
+    the strongest and most plausible versions of those arguments.
+  - (p. 60): A word of caution, however: _The principle of charity should never
+    be used to reinterpret bad arguments as good ones._ The principle of charity
+    is a principle of interpretation, not a principle of argument repair. Its
+    basic purpose, like that of the other three tests, is to help us decide what
+    arguments are actually being offered, not to replace bad arguments with ones
+    we think are better. Thus, the principle should be used only when there is
+    genuine uncertainty about how an argument should be interpreted. It should
+    not be used when it is clear what argument has actually been put forward.
+  - Finding Missing Premises and Conclusions (p. 180):
+    - In real life, people often leave parts of their arguments unstated.
+    - There are two basic rules in filling in missing steps:
+      1. _Faithfully interpret the arguer’s intentions._ The most important rule
+         in filling in missing premises and conclusions is to be as accurate as
+         possible in interpreting an arguer’s intent. A missing premise or
+         conclusion is a genuine part of an argument only if it was implicitly
+         understood to be part of the argument by the arguer himself.
+         Consequently, we should always try to fill in a missing step in an
+         argument in a way that the arguer himself would recognize as expressing
+         his own thought. One way to determine this is to ask _what else the
+         arguer must assume — that he does not say — to reach his conclusion_.
+         All assumptions you add to the argument must be consistent with
+         everything the arguer says.
+      2. _Be charitable._ Sometimes it is difficult or impossible to know what
+         unstated premise or conclusion an arguer had implicitly in mind. In
+         such cases, the principle of charity requires that we interpret the
+         argument as generously as possible. In general, this means that we
+         should search for a way of completing the argument that (1) is a
+         plausible way of interpreting the arguer’s uncertain intent and (2)
+         makes the argument as good an argument as it can be. Such judgments
+         require practice and skill. But you’ll seldom be far off the mark if
+         you remember this simple golden rule: _Be as generous in inter- preting
+         other people’s incompletely stated arguments as you would like them to
+         be in interpreting your own._
+
 [ethic-explainer]: https://ethics.org.au/ethics-explainer-the-principle-of-charity/
 [charity-lecture]: https://www.youtube.com/watch?v=Fyr67vd4VH8
