@@ -54,7 +54,7 @@
        a more effective criticism of the argument than if you were criticizing
        an uncharitable version of the argument.
 
-* [Critical Thinking: A Student's Introduction][critical-thinking] (5th ed.):
+* Critical Thinking: A Student's Introduction (5th ed.):
   - The Principle of Charity (p. 44): When interpreting an unclear passage,
     always give the speaker or writer the benefit of the doubt. Never attribute
     to an arguer a _weaker_ argument when the evidence reasonably permits us to
