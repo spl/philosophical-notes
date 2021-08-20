@@ -24,6 +24,13 @@
 * May lead one to over assume rationality, e.g. in children or people with conditions or just not focused
 * May require one to adjust their argumentative goal
 
+## What skills or attributes are needed for implementing the principle of charity?
+
+* Empathy
+* Humility
+* Imagination
+* Practice
+
 ## Related
 
 * Critical thinking
