@@ -1,0 +1,14 @@
+{
+  "name": "charity",
+  "version": "1.0.0",
+  "description": "The Principle of Charity - Philosophical Notes",
+  "main": "index.js",
+  "author": "Sean Leather",
+  "license": "ISC",
+  "dependencies": {
+    "js-beautify": "^1.14.0"
+  },
+  "scripts": {
+    "fix": "js-beautify --replace index.html"
+  }
+}
