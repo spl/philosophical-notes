@@ -1,9 +1,12 @@
 {
   "indent_size": 2,
   "html" : {
-    "end_with_newline": true
-  },
-  "js" : {
-    "end_with_newline": false
+    "end_with_newline": true,
+    "js" : {
+      "end_with_newline": false
+    },
+    "css" : {
+      "end_with_newline": false
+    }
   }
 }
