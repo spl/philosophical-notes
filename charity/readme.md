@@ -1,5 +1,27 @@
 # Principle of Charity
 
+## Citations
+
+* Wilson, N L. [Substances without
+  Substrata][wilson-1]. The Review of Metaphysics,
+  vol. 12, no. 4, Philosophy Education Society Inc., 1959, pp. 521–39.
+* Quine, W V O. [Word and Object][quine-1]. Cambridge, Mass: Massachusetts
+  Institute of Technology, 1960.
+* Davidson, Donald. Inquiries into Truth and Interpretation. Oxford: Clarendon Press, 1984.
+* Davidson, Donald. Subjective, Intersubjective, Objective. Oxford: Clarendon Press, 2001.
+* Jackman, Henry. [Charity, Self-Interpretation, and Belief][jackman-1]. Journal
+  of Philosophical Research, vol. 28. 2003, pp. 145–170.
+* Bassham, Gregory, et al. Critical Thinking: A Student’s Introduction, 5th ed.
+  New York: Mc Graw Hill, 2013.
+* Dennett, D C. Intuition Pumps and Other Tools for Thinking. New York: W.W.
+  Norton &amp; Company, 2013.
+
+[wilson-1]: http://www.jstor.org/stable/20123725
+[quine-1]: https://www.worldcat.org/title/word-and-object/oclc/47009643
+[jackman-1]: https://www.yorku.ca/hjackman/papers/charity.pdf
+
+<!--
+
 ## Disclaimer
 
 * I am not an expert.
@@ -111,3 +133,5 @@
 
 [ethic-explainer]: https://ethics.org.au/ethics-explainer-the-principle-of-charity/
 [charity-lecture]: https://www.youtube.com/watch?v=Fyr67vd4VH8
+
+-->
