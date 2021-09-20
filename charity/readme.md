@@ -1,5 +1,9 @@
 # Principle of Charity
 
+See the [slides][].
+
+[slides]: https://spl.github.io/philosophical-notes/charity/
+
 ## Citations
 
 * Wilson, N L. [Substances without
